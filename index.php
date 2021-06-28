@@ -1,4 +1,3 @@
 <php
-  echo "Onticha Chunkit";     
-     
-?php>
+  echo "Onticha Chunkit";        
+?>
